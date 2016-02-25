@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -11,7 +11,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     float: right;
     display: inline;
-    margin-right: 24px;
+    margin-right: 20px;
 }
 a {
     text-decoration: none;
