@@ -9,6 +9,7 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
+    float: right;
     display: inline;
     margin-right: 24px;
 }
