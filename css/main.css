@@ -30,7 +30,10 @@ p {
     color: #333;
 }
 p.small {
-    line-height: 300%;
+    line-height: 55%;
+}
+p.ssmall {
+    line-height: 140%;
 }
 footer {
     border-top: 1px solid #d5d5d5;
