@@ -20,23 +20,17 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3.2em;
+    font-size: 0em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.2em;
-    line-height: 1.4em;
+    font-size: 0em;
+    line-height: 0em;
     color: #333;
-}
-p.small {
-    line-height: 55%;
-}
-p.ssmall {
-    line-height: 140%;
 }
 footer {
     border-top: 0px;
-    font-size: 1em;
+    font-size: 0em;
     line-height: 0em;
 }
 
