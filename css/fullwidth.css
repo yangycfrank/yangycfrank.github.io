@@ -9,9 +9,8 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    float: right;
     display: inline;
-    margin-right: 28px;
+    margin-right: 0px;
 }
 a {
     text-decoration: none;
@@ -36,14 +35,14 @@ p.ssmall {
     line-height: 140%;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 0px;
     font-size: 1em;
-    line-height: 0.2em;
+    line-height: 0em;
 }
 
 ul.posts { 
     margin: 0px; 
-    font-size: 1.5em;
+    font-size: 0em;
 }
 
 ul.posts li {
